@@ -9,7 +9,7 @@ For compiled version:
 For python version:
 
 - Install required modules from "requirements.txt"
-- Run thallium.py
+- Run pruner.exe
 ## Todo
 - [x] 1 DAY PRUNER
 - [X] SELF BOT
