@@ -2,7 +2,7 @@
 ## Installation
 For compiled version:
 
-- Download latest version from [NUKERS TERRITORY](https://discord.gg/ntontop)
+- Download latest version from [NUKERS TERRITORY](https://discord.gg/ntop)
 - Extract all the content
 - Run Pruner.exe
 
@@ -17,5 +17,5 @@ For python version:
 - [X] PRUNE WITH REASON
 ## Contact
 - Discord: AIZER , AESTHETIC
-- Server: discord.gg/ntontop
+- Server: discord.gg/ntop
 - Instagram: mohsin_xd9, m4hit_kamboz
